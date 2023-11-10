@@ -1,0 +1,25 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "this is namaste react by akshay saini",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sangeetha-hs/namaste-react-video-01.git"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react",
+    "sangeetha"
+  ],
+  "author": "sangeetha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sangeetha-hs/namaste-react-video-01/issues"
+  },
+  "homepage": "https://github.com/sangeetha-hs/namaste-react-video-01#readme"
+}
